@@ -1,4 +1,14 @@
-## Hi there 👋
+Hi, I'm a first-year undergraduate at Rutgers University studying Electrical & Computer Engineering. My primary interest is in embedded systems and microcontrollers. I also play the saxaphone :)
+
+Contact me: matthewschaming@gmail.com
+
+---
+
+Here's an overview of my work-related repositories:
+
+1. [Bike-Project](https://github.com/Schmiff1/Bike-Project) -- Designed an LED bike light system which dynamically adjusts colors based on real-time bike speed, leveraging FastLED and ESP32 microcontrollers for seamless performance.
+2. [Unreal-Twitch](https://github.com/Schmiff1/UnrealTwitch) -- Developed a backend service for a Twitch live stream extension, seamlessly integrating with Unreal Engine. 
+
 
 <!--
 **Schmiff1/Schmiff1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
